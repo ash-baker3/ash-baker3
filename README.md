@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a software developer with 3 years of experience in android development using java and kotlin
+I'm a software developer with 3 years of experience in android development using java and kotlin. I enjoy learning new technologies and staying updated with the latest trends.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [aysha.naushad9@gmail.com](mailto:aysha.naushad9@gmail.com)
